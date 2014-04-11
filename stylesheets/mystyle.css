@@ -7,6 +7,7 @@
 }
 .installlinks h4{
  	text-align: center;
+ 	margin-top: -10px;
 }
 .installlinks li{
 	background-color: #DCDCDC;
@@ -16,9 +17,12 @@
 }
 .htmllinks ul {
 	list-style: none;
+	margin-top: 40px;
+
 }
 .htmllinks h4 {
 	text-align: center;
+	margin-top: -10px;
 }
 .htmllinks li {
 	background-color: grey;
