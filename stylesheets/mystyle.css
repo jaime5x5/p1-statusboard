@@ -17,6 +17,9 @@
 .htmllinks ul {
 	list-style: none;
 }
+.htmllinks h4 {
+	text-align: center;
+}
 .htmllinks li {
 	background-color: grey;
 	margin-top: 10px;
