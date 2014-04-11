@@ -2,9 +2,9 @@
 .inner {
 	max-width: 1280px;
 }
-.installlinks {
- list-style: none;
+.installlinks ul{
+ 	list-style: none;
 }
-.htmllinks {
-
+.htmllinks ul {
+	list-style: none;
 }
